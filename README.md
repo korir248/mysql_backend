@@ -1,1 +1,2 @@
-# mysql_backend
+# Rust mysql backend
+Simple mysql backend using Rust(diesel framework)
