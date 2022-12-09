@@ -9,3 +9,5 @@ edition = "2021"
 diesel = { version = "2.0.2", features = ["mysql"]}
 # diesel = "2.0.2"
 dotenvy = "0.15"
+# tokio = "1.23.0"
+# memoize = "0.3.3"
